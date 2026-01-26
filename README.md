@@ -4,9 +4,6 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<!--START_SECTION:waka_basic-->
-<!--END_SECTION:waka_basic-->
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/david-loveland?label=Follow)](https://twitter.com/intent/follow?screen_name=david-loveland)
 [![Linkedin: David](https://img.shields.io/badge/-David-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/DavidLoveland/)
 [![GitHub followers](https://img.shields.io/github/followers/circle-earth?style=social&logo=github)](https://github.com/circle-earth?tab=followers)
