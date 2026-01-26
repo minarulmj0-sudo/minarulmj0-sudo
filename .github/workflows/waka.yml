@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # ⭐ MUST (403 fix)
+  contents: write
 
 jobs:
   update-readme:
@@ -15,13 +15,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # ===== Section 1: Profile Views + Total Code Time =====
+      # ===== Section 1 =====
       - name: WakaTime Basic Stats
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
           SECTION_NAME: waka_basic
 
           SHOW_PROFILE_VIEWS: true
@@ -34,13 +32,11 @@ jobs:
           SHOW_COMMIT: false
           SHOW_TIMEZONE: false
 
-      # ===== Section 2: All except profile & code time =====
+      # ===== Section 2 =====
       - name: WakaTime Full Stats
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
           SECTION_NAME: waka_full
 
           SHOW_PROFILE_VIEWS: false
