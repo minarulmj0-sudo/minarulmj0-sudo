@@ -80,45 +80,21 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 879.6 kB Used in GitHub's Storage 
- > 
-> 🏆 21 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Tuesday                  13 commits          ████████████░░░░░░░░░░░░░   46.43 % 
-Wednesday                3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Friday                   3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Saturday                 5 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-```
-
-
-**I Mostly Code in Python** 
-
-```text
-Python                   2 repos             █████████████████████████   100.00 % 
+Monday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Tuesday                  14 commits          ████████████░░░░░░░░░░░░░   48.28 % 
+Wednesday                3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Friday                   3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Saturday                 5 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/minarulmj0-sudo/minarulmj0-sudo/main/assets/bar_graph.png)
-
-
- Last Updated on 26/01/2026 23:03:12 UTC
+ Last Updated on 26/01/2026 23:09:54 UTC
 <!--END_SECTION:waka_basic-->
 
 <!--START_SECTION:waka_full-->
