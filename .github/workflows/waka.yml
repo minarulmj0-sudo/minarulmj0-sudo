@@ -1,16 +1,37 @@
-name: Waka Readme
+name: Waka Readme Stats
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
+
     steps:
-      - uses: minarulmj0-sudo/waka@master
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: WakaTime Basic Stats
+        uses: circle-earth/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          SECTION_NAME: waka_basic
+
+          SHOW_PROFILE_VIEWS: true
+          SHOW_CODE_TIME: true
+
+      - name: WakaTime Full Stats
+        uses: circle-earth/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          SECTION_NAME: waka_full
+
+          SHOW_PROFILE_VIEWS: false
+          SHOW_CODE_TIME: false
