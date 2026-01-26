@@ -4,6 +4,9 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+<!--START_SECTION:waka_basic-->
+<!--END_SECTION:waka_basic-->
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/david-loveland?label=Follow)](https://twitter.com/intent/follow?screen_name=david-loveland)
 [![Linkedin: David](https://img.shields.io/badge/-David-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/DavidLoveland/)
 [![GitHub followers](https://img.shields.io/github/followers/circle-earth?style=social&logo=github)](https://github.com/circle-earth?tab=followers)
@@ -74,6 +77,9 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
+
+<!--START_SECTION:waka_full-->
+<!--END_SECTION:waka_full-->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2054%20mins-blue?style=flat)
