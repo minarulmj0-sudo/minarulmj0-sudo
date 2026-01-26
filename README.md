@@ -76,6 +76,49 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ---
 
 <!--START_SECTION:waka_basic-->
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2054%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 879.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 17 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Tuesday                  9 commits           █████████░░░░░░░░░░░░░░░░   37.50 % 
+Wednesday                3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Friday                   3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Saturday                 5 commits           █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
+
+
+**I Mostly Code in Python** 
+
+```text
+Python                   2 repos             █████████████████████████   100.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/minarulmj0-sudo/minarulmj0-sudo/main/assets/bar_graph.png)
+
+
+ Last Updated on 26/01/2026 22:36:01 UTC
 <!--END_SECTION:waka_basic-->
 
 <!--START_SECTION:waka_full-->
