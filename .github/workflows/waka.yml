@@ -14,6 +14,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+
+      # ===== Section 1 =====
       - name: WakaTime Basic Stats
         uses: anmol098/waka-readme-stats@master
         with:
@@ -21,8 +23,15 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SECTION_NAME: waka_basic
 
-          SHOW_PROFILE_VIEWS: true
-          SHOW_TOTAL_CODE_TIME: true
+          SHOW_TIMEZONE=false 
+          SHOW_PROJECTS=False
+          SHOW_EDITORS=False
+          SHOW_OS=False
+          SHOW_LANGUAGE=False
+          SHOW_LINES_OF_CODE=False
+          SHOW_LOC_CHART=False
+          SHOW_SHORT_INFO=False
+          SHOW_UPDATED_DATE=False
 
       - name: WakaTime Full Stats
         uses: anmol098/waka-readme-stats@master
