@@ -22,9 +22,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SECTION_NAME: waka_basic
 
-          SHOW_PROFILE_VIEWS: true
-          SHOW_TOTAL_CODE_TIME: true
-
           SHOW_LANGUAGE: false
           SHOW_OS: false
           SHOW_PROJECTS: false
