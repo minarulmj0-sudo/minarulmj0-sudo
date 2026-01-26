@@ -28,6 +28,9 @@ jobs:
           SHOW_EDITORS: false
           SHOW_COMMIT: false
           SHOW_TIMEZONE: false
+          SHOW_SHORT_INFO: false
+          SHOW_LOC_CHART: false
+          SHOW_LANGUAGE_PER_REPO: false
 
       - name: WakaTime Full Stats
         uses: circle-earth/waka-readme-stats@master
