@@ -14,8 +14,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-
-      # ===== Section 1 =====
       - name: WakaTime Basic Stats
         uses: anmol098/waka-readme-stats@master
         with:
@@ -26,14 +24,6 @@ jobs:
           SHOW_PROFILE_VIEWS: true
           SHOW_TOTAL_CODE_TIME: true
 
-          SHOW_LANGUAGE: false
-          SHOW_OS: false
-          SHOW_PROJECTS: false
-          SHOW_EDITORS: false
-          SHOW_COMMIT: false
-          SHOW_TIMEZONE: false
-
-      # ===== Section 2 =====
       - name: WakaTime Full Stats
         uses: anmol098/waka-readme-stats@master
         with:
@@ -43,10 +33,3 @@ jobs:
 
           SHOW_PROFILE_VIEWS: false
           SHOW_TOTAL_CODE_TIME: false
-
-          SHOW_LANGUAGE: true
-          SHOW_OS: true
-          SHOW_PROJECTS: true
-          SHOW_EDITORS: true
-          SHOW_COMMIT: true
-          SHOW_TIMEZONE: true
