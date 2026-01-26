@@ -25,6 +25,15 @@ jobs:
           SHOW_PROFILE_VIEWS: true
           SHOW_CODE_TIME: true
 
+          SHOW_LINES_OF_CODE: false
+          SHOW_TOTAL_CODE_TIME: false
+          SHOW_LANGUAGE: false
+          SHOW_OS: false
+          SHOW_PROJECTS: false
+          SHOW_TIMEZONE: false
+          SHOW_EDITORS: false
+          SHOW_COMMIT: false
+
       - name: WakaTime Full Stats
         uses: circle-earth/waka-readme-stats@master
         with:
@@ -35,3 +44,12 @@ jobs:
 
           SHOW_PROFILE_VIEWS: false
           SHOW_CODE_TIME: false
+
+          SHOW_LINES_OF_CODE: true
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_LANGUAGE: true
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_TIMEZONE: true
+          SHOW_EDITORS: true
+          SHOW_COMMIT: true
