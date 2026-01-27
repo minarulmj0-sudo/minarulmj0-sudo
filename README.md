@@ -15,9 +15,9 @@
     
 ## 🚀 About Me
 
--  Student developer exploring **DevOps, Cloud Computing & Automation**
--  Currently learning **Python, TypeScript & Cloud-native tools**
--  Love building, breaking & automating things
+- 🎓 Student developer exploring **DevOps, Cloud Computing & Automation**
+- 🌱 Currently learning **Python, TypeScript & Cloud-native tools**
+- ⚡ Love building, breaking & automating things
 ---
 <p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
