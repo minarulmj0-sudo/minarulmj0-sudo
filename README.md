@@ -106,3 +106,6 @@
   <img height="28" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=circle-earth&show_icons=true&theme=tokyonight" />
+</p>
