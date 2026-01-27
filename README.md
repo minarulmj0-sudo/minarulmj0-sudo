@@ -6,14 +6,14 @@
   <img src="https://img.shields.io/github/followers/circle-earth?label=Followers&style=flat" />
   <img src="https://github.com/circle-earth/circle-earth/workflows/Waka%20Readme/badge.svg" alt="waka readme status" />
   <a href="https://wakatime.com/@d3d6940b-0a46-4013-b03a-7653b214f960">
-  <img src="https://wakatime.com/badge/user/d3d6940b-0a46-4013-b03a-7653b214f960.svg"
-         alt="Total time code" />
+  <img src="https://wakatime.com/badge/user/d3d6940b-0a46-4013-b03a-7653b214f960.svg" alt="Total time code" />
   </a>
-  <a href="https://circle-earth.github.io/portfolio/">    <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="website" />
+  <a href="https://circle-earth.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="website" />
   </a>
 </p>
     
-## 🚀 About Me
+## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/about.gif" width="30"> About Me
 
 - 🎓 Student developer exploring **DevOps, Cloud Computing & Automation**
 - 🌱 Currently learning **Python, TypeScript & Cloud-native tools**
@@ -22,7 +22,7 @@
 <p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 <em><b>I love connecting with different people</b> so if you want to say 
-<b>hi, I'll be happy to meet you more!</b> 😊</em>
+<b>hi, I'll be happy to meet you more!</b>😊</em>
 
 ### Connect with me:
 
@@ -88,7 +88,7 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/database.gif" width="30">  Database
+## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/database.gif" width="30"> Database
 <p align="center">
   <img height="28" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
