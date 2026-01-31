@@ -24,7 +24,6 @@ jobs:
 
           SHOW_LANGUAGE: false
           SHOW_OS: false
-          SHOW_PROJECTS: false
           SHOW_EDITORS: false
           SHOW_COMMIT: false
           SHOW_TIMEZONE: false
@@ -45,3 +44,5 @@ jobs:
           SHOW_TOTAL_CODE_TIME: false
           SHOW_UPDATED_DATE: false
 		  SHOW_PROJECTS: false
+		  
+		  
