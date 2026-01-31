@@ -44,4 +44,4 @@ jobs:
           SHOW_PROFILE_VIEWS: false
           SHOW_TOTAL_CODE_TIME: false
           SHOW_UPDATED_DATE: false
-					SHOW_PROJECTS: false
+		  SHOW_PROJECTS: false
