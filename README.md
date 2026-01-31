@@ -112,3 +112,6 @@
 <p align="center">
   <img src="https://github-readme-stats-mj.vercel.app/api?username=circle-earth&show_icons=true&theme=tokyonight" />
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
