@@ -114,6 +114,11 @@
 </p>
 
 <!--START_SECTION:waka_basic-->
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2057%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-268-blue?style=flat)
+
+
 <!--END_SECTION:waka_basic-->
 
 <!--START_SECTION:waka_full-->
