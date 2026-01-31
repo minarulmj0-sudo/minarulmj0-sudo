@@ -99,13 +99,16 @@
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/tools.gif" width="30"> Tools & Platforms
+## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/tools.gif" width="30"> Tools & Platforms
 <p align="center">
   <img height="28" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img height="28" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=circle-earth&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-mj.vercel.app/api?username=circle-earth&show_icons=true&theme=tokyonight" />
 </p>
