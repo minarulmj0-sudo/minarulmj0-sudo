@@ -118,6 +118,17 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-268-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+ui-kit-inventory-system  7 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+enterprise-booking-system5 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+ui-kit-analytics-dashboar5 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+microservice-logistics-en4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+saas-core-inventory-syste3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+```
+
 
 <!--END_SECTION:waka_basic-->
 
