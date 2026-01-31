@@ -8,7 +8,7 @@
   <a href="https://wakatime.com/@d3d6940b-0a46-4013-b03a-7653b214f960">
   <img src="https://wakatime.com/badge/user/d3d6940b-0a46-4013-b03a-7653b214f960.svg" alt="Total time code" />
   </a>
-  <a href="https://circle-earth.github.io/portfolio/">
+  <a href="https://minarul.vercel.app">
   <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="website" />
   </a>
 </p>
@@ -36,7 +36,7 @@
   <a href="https://linkedin.com/in/minarulns" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/linkedin.svg" width="50" />
   </a>
-  <a href="https://circle-earth.github.io/portfolio" target="_blank"> 
+  <a href="https://minarul.vercel.app" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@icon/social/Logo.svg" width="50" />
   </a>
 </p>
