@@ -114,7 +114,7 @@
 </p>
 
 <!--START_SECTION:start-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2045%20mins-blue?style=flat)
 
 **Timeline**
 
